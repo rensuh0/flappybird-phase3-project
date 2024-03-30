@@ -31,7 +31,7 @@ This project is a clone of the classic Flappy Bird game developed using Python p
 
 ### Features:
 - Classic Flappy Bird gameplay experience.
-- Simple controls using the space bar.
+- Simple controls using the mouse.
 - Randomly generated pipes to create a dynamic game environment.
 - Scoring system to keep track of the player's progress.
 - Game over screen displaying the player's score and offering the option to play again.
